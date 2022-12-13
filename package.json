@@ -1,5 +1,5 @@
 {
-  "name": "compliment",
+  "name": "ngcompliment",
   "version": "1.0.0",
   "description": "Compliment generator for Angin",
   "main": "index.js",
@@ -12,5 +12,14 @@
     "Angin"
   ],
   "author": "Filip Virabyan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipVirabyan/Angin-compliment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FilipVirabyan/Angin-compliment/issues"
+  },
+  "homepage": "https://github.com/FilipVirabyan/Angin-compliment#readme"
 }
