@@ -1,6 +1,6 @@
 {
   "name": "ngcompliment",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compliment generator for Angin",
   "main": "index.js",
   "scripts": {
