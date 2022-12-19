@@ -1,7 +1,7 @@
 {
   "name": "ngcompliment",
   "version": "1.0.3",
-  "description": "Compliment generator for Angin",
+  "description": "Compliment generator for Raya",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
