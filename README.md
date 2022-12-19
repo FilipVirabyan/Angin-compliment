@@ -1,7 +1,7 @@
 Run the following command:
 npm run compliment
 
-This document aims to raise Angin's spirit when she feels low and insecure.
+This document aims to raise Rayas's spirit when she feels low and insecure.
 
 Please use the package when you:
 - Feel insecure
